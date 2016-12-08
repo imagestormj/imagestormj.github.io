@@ -1,7 +1,8 @@
 body {
+	color: black
 	background-color: green;
 }
 
 h1, p {
-	color: red; 
+	color: purple; 
 }
