@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Lora|Open+Sans:700i);
+
+body {
+	text-align: center;
+ 	background-color: red;
+ 	background: url("http://www.vectorworldmap.com/vectormaps/vector-world-map-v2.2-blank.gif");
+    background-size: cover;
+}
+
+h1 {
+	color: #A93226;
+	font-family: "Bookman Old Style", sans-serif;
+	font-style: italic;
+	font-size: 400px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+    color: #D4AC0D;
+    font-family: 'Lora', serif; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#slogan {
+	color: #7D3C98;
+	font-style: italic;
+	text-align: center;
+}
+
+h3 {color: #117A65;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+}
+
+ul {
+	color: #117A65;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+}
+
+a {
+	font-style: italic;
+	text-decoration: none;
+}
