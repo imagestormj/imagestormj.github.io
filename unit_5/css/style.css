@@ -1,0 +1,112 @@
+@import url(https://fonts.googleapis.com/css?family=Lora|Open+Sans:700i);
+
+body {
+	text-align: center;
+ 	background-color: #34495E;
+ 	background: url("http://www.vectorworldmap.com/vectormaps/vector-world-map-v2.2-blank.gif");
+ 	background-size: cover;
+}
+
+#container {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+
+}
+
+header {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1 {
+	color: #FF5733;
+	font-family: "Bookman Old Style", sans-serif;
+	font-style: italic;
+	font-size: 400px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+aside {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+	background-color: #E89C6C; 
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+p {
+    color: #F5B7B1;
+    font-family: 'Lora', monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#slogan {
+	color: #7D3C98;
+	font-family: "Bookman Old Style", sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	word-spacing: 50px
+}
+
+h3 {
+	color: #F4D03F;
+	font-family: "Bookman Old Style", monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+    padding: 1em 1em 1em 1em;
+}
+
+h5 {
+	color: #F4D03F;
+	font-family: "Bookman Old Style", monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+    padding: 0 0.5em;
+}
+
+ul {
+	color: #117A65;
+    font-family: 'Lora', monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    line-height: 200%
+    text-align: center;
+    list-style-type: none;
+    word-spacing: 50px
+}
+
+a {
+	font-style: italic;
+	text-decoration: none;
+}
+
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+
+}
