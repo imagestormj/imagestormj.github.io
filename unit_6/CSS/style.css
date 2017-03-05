@@ -1,0 +1,283 @@
+@import url(https://fonts.googleapis.com/css?family=Lora|Open+Sans:700i);
+
+body {
+    text-align: center;
+    background-color: #34495E;
+    background-size: cover;
+}
+
+#container {
+    background-color: #F2EC48;
+    border: 1px black solid;
+    padding: 20px;
+
+}
+
+header {
+    background-color: #000000;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #4BAB34;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1 {
+    color: #FF5733;
+    font-family: "Bookman Old Style", sans-serif;
+    font-style: italic;
+    font-size: 400px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+aside {
+    background-color: #FF004C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #387EF7; 
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+p {
+    color: #F5B7B1;
+    font-family: 'Lora', monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#slogan {
+    color: #7D3C98;
+    font-family: "Bookman Old Style", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    word-spacing: 50px
+}
+
+h3 {
+    color: #F4D03F;
+    font-family: "Bookman Old Style", monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+    padding: 1em 1em 1em 1em;
+}
+
+h5 {
+    color: #F4D03F;
+    font-family: "Bookman Old Style", monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+    padding: 0 0.5em;
+}
+
+ul {
+    color: #117A65;
+    font-family: 'Lora', monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    line-height: 200%
+    text-align: center;
+    list-style-type: none;
+    word-spacing: 50px
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#two_column {
+    background-color: #F28F48;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #B07145;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #8CB045;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+}
+
+footer {
+    background-color: #CC2BAD;
+    border: 1px black solid;
+    padding: 20px;
+
+}@import url(https://fonts.googleapis.com/css?family=Lora|Open+Sans:700i);
+
+body {
+    text-align: center;
+    background-color: #34495E;
+    background-size: cover;
+}
+
+#container {
+    background-color: #F2EC48;
+    border: 1px black solid;
+    padding: 20px;
+
+}
+
+header {
+    background-color: #000000;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #4BAB34;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1 {
+    color: #FF5733;
+    font-family: "Bookman Old Style", sans-serif;
+    font-style: italic;
+    font-size: 400px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+aside {
+    background-color: #FF004C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #387EF7; 
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+p {
+    color: #F5B7B1;
+    font-family: 'Lora', monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#slogan {
+    color: #7D3C98;
+    font-family: "Bookman Old Style", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    word-spacing: 50px
+}
+
+h3 {
+    color: #F4D03F;
+    font-family: "Bookman Old Style", monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+    padding: 1em 1em 1em 1em;
+}
+
+h5 {
+    color: #F4D03F;
+    font-family: "Bookman Old Style", monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+    padding: 0 0.5em;
+}
+
+ul {
+    color: #117A65;
+    font-family: 'Lora', monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    line-height: 200%
+    text-align: center;
+    list-style-type: none;
+    word-spacing: 50px
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#two_column {
+    background-color: #F28F48;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #B07145;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #8CB045;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+}
+
+footer {
+    background-color: #CC2BAD;
+    border: 1px black solid;
+    padding: 20px;
+
+}
