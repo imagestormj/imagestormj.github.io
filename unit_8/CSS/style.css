@@ -1,0 +1,188 @@
+@import url(https://fonts.googleapis.com/css?family=Lora|Open+Sans:700i);
+
+body {
+    text-align: center;
+    background-color: #D91A18;
+    background-size: cover;
+    padding: 100px;
+}
+
+#container {
+    background-color: #F2EC48;
+    background: url("http://www.vectorworldmap.com/vectormaps/vector-world-map-v2.2-blank.gif");
+    border: 1px black solid;
+    padding: 480px;
+    margin: 0 auto;
+
+}
+
+header {
+    background-color: #5CB076;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #000000;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav a {
+    background-color: #18D953;
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Lora', monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    line-height: 200%
+    text-align: center;
+    list-style-type: none;
+    word-spacing: 50px
+    display: inline-block;
+    float: none;
+    padding: 20px;
+    border: 10px black solid;
+    margin: 1.8em;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0:
+    font-size: 0;
+}
+
+a:hover {
+    background-color: #aaaaaa; 
+}
+
+h1 {
+    color: #D91A18;
+    font-family: "Bookman Old Style", sans-serif;
+    font-style: italic;
+    font-size: 400px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+aside {
+    background-color: #D91A18;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #5CB076; 
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+p {
+    color: #000000;
+    font-family: 'Lora', monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#slogan {
+    color: #FFFFFF;
+    font-family: "Bookman Old Style", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    word-spacing: 50px
+}
+
+h3 {
+    color: #D91A18;
+    font-family: "Bookman Old Style", monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+    padding: 1em 1em 1em 1em;
+}
+
+h5 {
+    color: #F4D03F;
+    font-family: "Bookman Old Style", monospace; 
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    list-style-type: none;
+    padding: 0 0.5em;
+}
+
+ul {
+    color: #117A65;
+    font-family: "Bookman Old Style", monospace; 
+    font-size: 80px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    line-height: 200%
+    text-align: center;
+    list-style-type: none;
+    word-spacing: 50px
+}
+
+li {
+    float: left;
+    width: 50%;
+    height: 6em;
+    outline: 3px solid #222;
+    text-align: center;
+    line-height: 6em;
+    color: #000;
+    background: #18D953;
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+}
+
+#services {
+    float: none;
+}
+
+footer {
+    background-color: #D91A18;
+    font-style: italic
+    font-size: 120px;
+    border: 1px black solid;
+    padding: 30px;
+    float: none;
+    border: 10px black solid;
+    margin: 2em;
+}
+
+@media only screen and (max-width: 721px) {
+    nav {
+        float: none;
+    }
+
+    nav a {
+        margin: 0 0.5em 0
+
+    }
+}
+
+@media only screen and (min-width: 320px) {
+    nav {
+        float: none;
+    }
+
+    nav a {
+        margin: 0 1.5em 0
+
+    }
+}
+
